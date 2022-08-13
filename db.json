@@ -3,23 +3,23 @@
     {
         "scores":   [
       {
-        "user_id": abraham,
+        "user_id": "abraham",
         "score": 5
       },
       {
-        "user_id":daniel,
+        "user_id":"daniel",
         "score": 2
       },
       {
-        "user_id":jose,
+        "user_id":"jose",
         "score": 4
       },
       {
-        "user_id":roberto,
+        "user_id":"roberto",
         "score": 14
       },
       {
-        "user_id":david,
+        "user_id":"david",
         "score": 10
       }
         ] 
